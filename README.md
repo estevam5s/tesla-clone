@@ -1,7 +1,7 @@
 # VUE_TESLA_CLONE ![Tesla_logo](https://user-images.githubusercontent.com/72607039/145508558-2eaff84c-7af9-43bc-99f1-ad19668b1c04.png)
 
 
-An Optimized Tesla Clone with React JS. Built only for study purposes
+An Optimized Tesla Clone with Vue. Built only for study purposes
 
 ##
 
@@ -12,6 +12,18 @@ An Optimized Tesla Clone with React JS. Built only for study purposes
   ![GitHub top language](https://img.shields.io/github/languages/top/BinaryLeo/REACT_TESLA_CLONE?style=flat-square)
 
 </div>
+
+## 🧪 technologies
+
+- [x] [Vue](https://)
+- [x] [CSS](https://)
+- [x] [Javascript](https://)
+- [x] [HTML](https://)
+
+
+<br>
+
+First Section - Navbar - Menu
 
 ## Pages
 
